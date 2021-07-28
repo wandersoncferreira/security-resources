@@ -29,48 +29,48 @@ When possible I will provide a tl;dr version for each entry.
    + simpler is more secure
    + trust no one
    + defense depth
-     a. physical
-     b. technical
-     c. administrative
+     - physical
+     - technical
+     - administrative
    + security through obscurity
    + data security goals (CIA)
-     a. confidentiality
-     b. integrity
-     c. availability
+     - confidentiality
+     - integrity
+     - availability
    + validate inputs
    + regulate requests
    + type cast received data at the first layers of your program
    + The most common attacks
-     a. URL manipulation and insecure direct object reference (IDOR)
-     b. SQL injection
-     c. cross-site scripting (XSS)
-     d. cross-site request forgery (CSRF)
-        a. use CSRF tokens
-     e. cookie visibility and theft
-     f. session hijacking
-     g. session fixation
-     h. remote code execution (RCE)
-     i. file upload abuse
-     j. denial of service
+     - URL manipulation and insecure direct object reference (IDOR)
+     - SQL injection
+     - cross-site scripting (XSS)
+     - cross-site request forgery (CSRF)
+       a. use CSRF tokens
+     - cookie visibility and theft
+     - session hijacking
+     - session fixation
+     - remote code execution (RCE)
+     - file upload abuse
+     - denial of service
 
 2) [X] [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]] - by Pluralsight
-   a. OSI model
-      | number | layer        |
-      |--------+--------------|
-      |      7 | Application  |
-      |      6 | Presentation |
-      |      5 | Session      |
-      |      4 | Transport    |
-      |      3 | Network      |
-      |      2 | Data Link    |
-      |      1 | Physical     |
+   - OSI model
+     | number | layer        |
+     |--------+--------------|
+     |      7 | Application  |
+     |      6 | Presentation |
+     |      5 | Session      |
+     |      4 | Transport    |
+     |      3 | Network      |
+     |      2 | Data Link    |
+     |      1 | Physical     |
 
 3) [X] [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
-   a. history about cryptography
-   b. detailed explanations about encryption algorithms
-   c. different options to handle authemtication and authorization
-   d. how to build trust
-   e. encryption in decentralized systems
+   - history about cryptography
+   - detailed explanations about encryption algorithms
+   - different options to handle authemtication and authorization
+   - how to build trust
+   - encryption in decentralized systems
 
 
 * Definitions [0%]
