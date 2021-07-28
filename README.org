@@ -6,8 +6,9 @@
   - [[#networking][Networking]]
     - [[#networking-concepts-and-protocols][Networking Concepts and Protocols]]
     - [[#cryptography-fundamentals-for-developers-and-security-professionals][Cryptography Fundamentals for Developers and Security Professionals]]
-- [[#definitions-0][Definitions]]
-- [[#guides-0][Guides]]
+- [[#guides][Guides]]
+  - [[#authentication-vs-authorization][Authentication vs Authorization]]
+  - [[#improper-error-handling][Improper Error Handling]]
 
 * Introduction
 
@@ -24,7 +25,7 @@ When possible I will provide a tl;dr version for each entry.
 
 ** Web Development
 
-*** [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]]
+*** DONE [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]]
 
 by Linkedin Learning
 
@@ -61,7 +62,7 @@ by Linkedin Learning
 
 ** Networking
 
-*** [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]]
+*** DONE [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]]
 
 by Pluralsight
 
@@ -76,7 +77,7 @@ by Pluralsight
      |      2 | Data Link    |
      |      1 | Physical     |
 
-*** [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
+*** DONE [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
 
 by Pluralsight
 
@@ -87,10 +88,6 @@ by Pluralsight
    - encryption in decentralized systems
 
 
-* Definitions [0%]
-
-- [ ] [[https://www.okta.com/identity-101/authentication-vs-authorization/][Authentication vs Authorization]]
-
-
-* Guides [0%]
-- [ ] [[https://owasp.org/www-community/Improper_Error_Handling][Improper Error Handling]]
+* Guides
+** DONE [[https://www.okta.com/identity-101/authentication-vs-authorization/][Authentication vs Authorization]]
+** TODO [[https://owasp.org/www-community/Improper_Error_Handling][Improper Error Handling]]
