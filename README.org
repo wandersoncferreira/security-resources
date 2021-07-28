@@ -1,0 +1,81 @@
+* Security Resources :TOC_3_gh:
+- [[#introduction][Introduction]]
+- [[#courses][Courses]]
+  - [[#web-development-100][Web Development]]
+- [[#definitions-0][Definitions]]
+- [[#guides-0][Guides]]
+
+* Introduction
+
+Curating resources is always a daunting task specially because there is no
+guarantee that my choices will be useful to you at all. Anyway, document is
+intended to keep myself organized and as a side effect this might help you
+somehow.
+
+Enjoy
+
+* Courses
+
+When possible I will provide a tl;dr version for each entry.
+
+** Web Development [100%]
+
+1) [X] [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]] - by Linkedin Learning
+   a. awareness + adequate protection = Security
+   b. awareness can be improved by understanding more about possible motivaitons of attackers
+   c. principle of least privilege
+      - control access to systems and resources
+   d. simpler is more secure
+   e. trust no one
+   f. defense depth
+      a. physical
+      b. technical
+      c. administrative
+   g. security through obscurity
+   h. data security goals (CIA)
+      a. confidentiality
+      b. integrity
+      c. availability
+   i. validate inputs
+   j. regulate requests
+   k. type cast received data at the first layers of your program
+   l. The most common attacks
+      a. URL manipulation and insecure direct object reference (IDOR)
+      b. SQL injection
+      c. cross-site scripting (XSS)
+      d. cross-site request forgery (CSRF)
+         a. use CSRF tokens
+      e. cookie visibility and theft
+      f. session hijacking
+      g. session fixation
+      h. remote code execution (RCE)
+      i. file upload abuse
+      j. denial of service
+
+2) [X] [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]] - by Pluralsight
+   a. OSI model
+      | number | layer        |
+      |--------+--------------|
+      |      7 | Application  |
+      |      6 | Presentation |
+      |      5 | Session      |
+      |      4 | Transport    |
+      |      3 | Network      |
+      |      2 | Data Link    |
+      |      1 | Physical     |
+
+3) [X] [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
+   a. history about cryptography
+   b. detailed explanations about encryption algorithms
+   c. different options to handle authemtication and authorization
+   d. how to build trust
+   e. encryption in decentralized systems
+
+
+* Definitions [0%]
+
+- [ ] [[https://www.okta.com/identity-101/authentication-vs-authorization/][Authentication vs Authorization]]
+
+
+* Guides [0%]
+- [ ] [[https://owasp.org/www-community/Improper_Error_Handling][Improper Error Handling]]
