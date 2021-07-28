@@ -1,7 +1,11 @@
 * Security Resources :TOC_3_gh:
 - [[#introduction][Introduction]]
 - [[#courses][Courses]]
-  - [[#web-development-100][Web Development]]
+  - [[#web-development][Web Development]]
+    - [[#programming-foundations-web-security][Programming Foundations: Web Security]]
+  - [[#networking][Networking]]
+    - [[#networking-concepts-and-protocols][Networking Concepts and Protocols]]
+    - [[#cryptography-fundamentals-for-developers-and-security-professionals][Cryptography Fundamentals for Developers and Security Professionals]]
 - [[#definitions-0][Definitions]]
 - [[#guides-0][Guides]]
 
@@ -18,9 +22,11 @@ Enjoy
 
 When possible I will provide a tl;dr version for each entry.
 
-** Web Development [100%]
+** Web Development
 
-1) [X] [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]] - by Linkedin Learning
+*** [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]]
+
+by Linkedin Learning
 
    + awareness + adequate protection = Security
    + awareness can be improved by understanding more about possible motivaitons of attackers
@@ -53,7 +59,12 @@ When possible I will provide a tl;dr version for each entry.
      - file upload abuse
      - denial of service
 
-2) [X] [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]] - by Pluralsight
+** Networking
+
+*** [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]]
+
+by Pluralsight
+
    - OSI model
      | number | layer        |
      |--------+--------------|
@@ -65,7 +76,10 @@ When possible I will provide a tl;dr version for each entry.
      |      2 | Data Link    |
      |      1 | Physical     |
 
-3) [X] [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]] - by Pluralsight
+*** [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
+
+by Pluralsight
+
    - history about cryptography
    - detailed explanations about encryption algorithms
    - different options to handle authemtication and authorization
