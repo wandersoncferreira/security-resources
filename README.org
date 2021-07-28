@@ -21,6 +21,7 @@ When possible I will provide a tl;dr version for each entry.
 ** Web Development [100%]
 
 1) [X] [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]] - by Linkedin Learning
+
    a. awareness + adequate protection = Security
    b. awareness can be improved by understanding more about possible motivaitons of attackers
    c. principle of least privilege
