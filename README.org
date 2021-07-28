@@ -65,7 +65,7 @@ When possible I will provide a tl;dr version for each entry.
      |      2 | Data Link    |
      |      1 | Physical     |
 
-3) [X] [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]]
+3) [X] [[https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents][Cryptography Fundamentals for Developers and Security Professionals]] - by Pluralsight
    - history about cryptography
    - detailed explanations about encryption algorithms
    - different options to handle authemtication and authorization
