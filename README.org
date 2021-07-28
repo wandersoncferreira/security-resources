@@ -22,36 +22,36 @@ When possible I will provide a tl;dr version for each entry.
 
 1) [X] [[https://www.linkedin.com/learning/programming-foundations-web-security-2?u=26890602][Programming Foundations: Web Security]] - by Linkedin Learning
 
-   a. awareness + adequate protection = Security
-   b. awareness can be improved by understanding more about possible motivaitons of attackers
-   c. principle of least privilege
-      - control access to systems and resources
-   d. simpler is more secure
-   e. trust no one
-   f. defense depth
-      a. physical
-      b. technical
-      c. administrative
-   g. security through obscurity
-   h. data security goals (CIA)
-      a. confidentiality
-      b. integrity
-      c. availability
-   i. validate inputs
-   j. regulate requests
-   k. type cast received data at the first layers of your program
-   l. The most common attacks
-      a. URL manipulation and insecure direct object reference (IDOR)
-      b. SQL injection
-      c. cross-site scripting (XSS)
-      d. cross-site request forgery (CSRF)
-         a. use CSRF tokens
-      e. cookie visibility and theft
-      f. session hijacking
-      g. session fixation
-      h. remote code execution (RCE)
-      i. file upload abuse
-      j. denial of service
+   + awareness + adequate protection = Security
+   + awareness can be improved by understanding more about possible motivaitons of attackers
+   + principle of least privilege
+     - control access to systems and resources
+   + simpler is more secure
+   + trust no one
+   + defense depth
+     a. physical
+     b. technical
+     c. administrative
+   + security through obscurity
+   + data security goals (CIA)
+     a. confidentiality
+     b. integrity
+     c. availability
+   + validate inputs
+   + regulate requests
+   + type cast received data at the first layers of your program
+   + The most common attacks
+     a. URL manipulation and insecure direct object reference (IDOR)
+     b. SQL injection
+     c. cross-site scripting (XSS)
+     d. cross-site request forgery (CSRF)
+        a. use CSRF tokens
+     e. cookie visibility and theft
+     f. session hijacking
+     g. session fixation
+     h. remote code execution (RCE)
+     i. file upload abuse
+     j. denial of service
 
 2) [X] [[https://app.pluralsight.com/library/courses/comptia-network-plus-networking-concepts/table-of-contents][Networking Concepts and Protocols]] - by Pluralsight
    a. OSI model
