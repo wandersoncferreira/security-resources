@@ -87,7 +87,20 @@ by Pluralsight
    - how to build trust
    - encryption in decentralized systems
 
-
 * Guides
-** DONE [[https://www.okta.com/identity-101/authentication-vs-authorization/][Authentication vs Authorization]]
-** TODO [[https://owasp.org/www-community/Improper_Error_Handling][Improper Error Handling]]
+
+** [[https://www.okta.com/identity-101/authentication-vs-authorization/][Authentication vs Authorization]]
+** [[https://owasp.org/www-community/Improper_Error_Handling][Improper Error Handling]]
+
+A web application, for example, has many scenarios where errors can occur e.g.
+database failure, out of memory, high workload, unauthorized access, and so on.
+We must be vigilant to how we handle this error and avoid leakage of internal
+information to a potential attacker.
+
+All the errors returned from our application must be designed to provide a good
+balance of usefulness to real users, diagnostic capabilities to operations, and
+obscurity to an attacker.
+
+Preferably, we keep a well documented guideline about error messages and error
+codes to make it consistent and well used inside the team.
+
