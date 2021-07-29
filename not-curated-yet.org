@@ -1,0 +1,11 @@
+#+TITLE: Not Curated Yet
+
+** TODO [[https://owasp.org/www-community/controls/Content_Security_Policy][content security policy]]
+** TODO [[https://owasp.org/www-community/controls/Static_Code_Analysis][static code analysis]]
+** TODO [[https://owasp.org/www-community/Access_Control][access control]]
+** TODO [[https://owasp.org/www-community/Application_Threat_Modeling][application threat modeling]]
+** TODO [[https://owasp.org/www-community/Injection_Theory][injection theory]]
+** TODO [[https://www.okta.com/identity-101/what-is-strong-authentication/][what is strong authentication?]]
+** TODO [[https://www.okta.com/identity-101/security-token/][what is a security token?]]
+** TODO [[https://www.okta.com/identity-101/context-based-authentication/][context-based authentication]]
+** TODO [[https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/][what is the difference between oauth, openid connect, and SAML?]]
